@@ -1,0 +1,11 @@
+name = "test"
+type = "javascript"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-10-23"
+kv_namespaces = [
+    { binding = "Kininaru", id = "b49b15eed0d544c48f002f7985700791" }
+]
